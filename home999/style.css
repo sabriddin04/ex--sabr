@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+}
+ul{
+    margin: 0;
+    list-style: none;
+    display: flex;
+    font-size: 15px;
+    padding: 18px;
+    letter-spacing: 4px;
+}
+a{
+    text-decoration: none;
+    padding-top: 11px;
+    padding-bottom: 12px;
+    padding-left: 13px;
+    padding-right: 13px;
+    border-radius: 10%;
+    color: #989898;
+}
+a:hover{
+    color: #FFFFFF;
+}
+button{
+    background: linear-gradient(180deg, #15B9B9 0%, #3C1DFF 100%); 
+    width: 370px; 
+    height: 71px; 
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-size: 25px;
+}
+#two{
+    background: linear-gradient(90deg, #3C1DFF 18.63%, #14C9C9 78.88%);
+    margin-left: 120px; 
+    height: 24px; 
+    width: 488px;
+}
